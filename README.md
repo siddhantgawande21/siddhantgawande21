@@ -43,10 +43,6 @@ My goal is to contribute to innovative projects and continuously improve my skil
 
 ## 📌 Projects  
 
-### 🔹 Virtual Classroom Economy System  
-A web-based academic management system where students earn and spend virtual credits for attendance, assignments, and practical eligibility.  
-**Tech Used:** HTML, CSS, Java, JavaScript, SQL  
-
 ### 🔹 Fake News Detector  
 Built an ML model using **TF-IDF + Logistic Regression** to classify news as real or fake with **92% accuracy**.  
 **Tech Used:** Python, Scikit-learn, Pandas, Streamlit  
